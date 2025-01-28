@@ -1,0 +1,45 @@
+
+.usuario img {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 100px;
+}
+
+.contexto {
+    text-align: center;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.Proyectos section{
+    text-align: center;
+}
+
+.Proyectos img{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Contacto {
+    background-color: lightblue;
+
+}
+
+
+
+
